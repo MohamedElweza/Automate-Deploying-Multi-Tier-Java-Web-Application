@@ -39,7 +39,7 @@ Before you start, ensure you have:
 
 ### 2️⃣ Clone This Repository
 ```sh
-$ git clone [https://github.com/MohamedElweza/Automate-Deploying-Multi-Tier-Java-Web-Application]
+$ git clone https://github.com/MohamedElweza/Automate-Deploying-Multi-Tier-Java-Web-Application
 ```
 
 ### 3️⃣ Start the Virtual Machines
